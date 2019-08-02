@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Options.cpp
+c:\users\david\desktop\tictactoe\source\tictactoe game\options.cpp(182): warning C4551: function call missing argument list
+  Main.cpp
+  Game.cpp
+c:\users\david\desktop\tictactoe\source\tictactoe game\game.cpp(483): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Menu.cpp
+c:\users\david\desktop\tictactoe\source\tictactoe game\menu.cpp(427): warning C4551: function call missing argument list
+  Generating Code...
+     Creating library .\Debug\TicTacToe Game.lib and object .\Debug\TicTacToe Game.exp
+  TicTacToe Game.vcxproj -> C:\Users\David\Desktop\TictacToe\Source\TicTacToe Game\.\Debug\TicTacToe Game.exe
+  TicTacToe Game.vcxproj -> .\Debug\TicTacToe Game.pdb (Partial PDB)

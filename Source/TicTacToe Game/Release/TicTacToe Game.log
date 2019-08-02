@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Menu.cpp
+  Game.cpp
+C:\Users\David\Desktop\TicTacToe\Source\TicTacToe Game\Menu.cpp(427,3): warning C4551:  function call missing argument list
+  Main.cpp
+  Options.cpp
+C:\Users\David\Desktop\TicTacToe\Source\TicTacToe Game\Game.cpp(483,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\David\Desktop\TicTacToe\Source\TicTacToe Game\Options.cpp(182,4): warning C4551:  function call missing argument list
+     Creating library .\Release\TicTacToe Game.lib and object .\Release\TicTacToe Game.exp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 146 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TicTacToe Game.vcxproj -> C:\Users\David\Desktop\TicTacToe\Source\TicTacToe Game\.\Release\TicTacToe Game.exe
